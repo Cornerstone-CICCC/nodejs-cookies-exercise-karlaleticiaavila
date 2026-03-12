@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-cookies-exercise-karlaleticiaavila",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s3e9B_vM)\r # NodeJS - Cookies Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/nodejs-cookies-exercise-karlaleticiaavila.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/nodejs-cookies-exercise-karlaleticiaavila/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/nodejs-cookies-exercise-karlaleticiaavila#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.3.1",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/ejs": "^3.1.5",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.4.0",
+    "typescript": "^5.9.3"
+  }
+}
